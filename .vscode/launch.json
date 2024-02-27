@@ -5,12 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Descomplica-Faculdade_698ab704"
+        },
+        {
             "type": "delegua",
             "request": "launch",
             "name": "Executar arquivo aberto",
             "program": "${file}",
             "stopOnEntry": false
-        },
-    
+        }
     ]
 }
