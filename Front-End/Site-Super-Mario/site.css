@@ -4,30 +4,28 @@
 }
 
 @font-face {
-.lexend-deca-regular {
-  font-family: "Lexend Deca", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-}
+    .lexend-deca-regular {
+        font-family: "Lexend Deca", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 800;
+        font-style: normal;
+    }
 }
 
 .navbar.navbar-expand-lg {
-    background-color: #090909;
-    --bs-body-bg: #E8DF01;
+    background-color: #ffffff;
     font-family: "Lexend Deca", sans-serif !important;
     font-weight: 800;
 
 }
 
 .btn.btn-outline-success {
-    color: #E8DF01;
-    --bs-btn-color: #E8DF01;
+    color: #ffffff;
 
 }
 
 .nav-link {
-    color: #E8DF01 !important;
+    color: #ffffff !important;
 }
 
 .btn-outline-success {
@@ -37,20 +35,19 @@
 
 h1 {
     font-family: 'Aquire-BWox' !important;
-    color: #E8DF01 !important;
 }
 
 h2 {
     font-family: 'Aquire-BWox' !important;
-    color: #E8DF01 !important;
 }
 
 p {
     font-family: "Lexend Deca", sans-serif !important;
     font-size: 24px !important;
+    margin: 9% 0 0 0!important;
 }
+
 
 section {
     margin: 4% 10% 4% 10% !important;
 }
-
